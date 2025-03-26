@@ -1,3 +1,59 @@
-# Email-Compaign
+------------------------------------------------------------------------------
+FIRST METHOD
+-----------------------------------------------------------------------------
+ 
+Open it in Stack Blitz editor given below.Online editor.
 
+<br/>
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/M-zhar/Email-Compaign)
+Step 1:Once Opened in StackBlitz Go to envfile and replace your app password.
+
+<br/>
+
+Step 2:Once it run Upload template  , Data file , and Attachments (These three sample files are given u can use it).
+
+
+-----------------------------------------------------------------------------------------------------------
+SECOND METHOD
+-----------------------------------------------------------------------------------------------------------
+Clone the repository in your vs code
+<br/>
+
+step -1 : Check the package.json file and install all the module.
+<br/>
+
+step -2: Now Update the .env file and put your app pasword and gmail and sender gmail as well.
+<br/>
+
+step -3:Run the project and upoad the files ()Sample files are given)..
+-----------------------------------------------------------
+
+
+
+
+-----------------
+---------------
+------------------
+----------------Project UI-----------------------------
+![Screenshot (24)](https://github.com/user-attachments/assets/c78b54fd-7637-454d-a142-8f8d4ed055fa)
+
+
+Preview of the Email For A Recipient
+
+![Screenshot (25)](https://github.com/user-attachments/assets/674bf9ca-e395-455c-86d2-1ac3e06a96e3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
