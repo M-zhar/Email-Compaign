@@ -10,10 +10,13 @@ Step 1:Once Opened in StackBlitz Go to envfile and replace your app password.
 
 <br/>
 
+
 Step 2:Once it run Upload template  , Data file , and Attachments (These three sample files are given u can use it).
+[Template 6.docx](https://github.com/user-attachments/files/19474238/Template.6.docx)
 
 
------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------[Uploading Data File Raj.csv…]()
+------------------------------------
 SECOND METHOD
 -----------------------------------------------------------------------------------------------------------
 Clone the repository in your vs code
@@ -36,6 +39,7 @@ step -3:Run the project and upoad the files ()Sample files are given)..
 ------------------
 ----------------Project UI-----------------------------
 ![Screenshot (24)](https://github.com/user-attachments/assets/c78b54fd-7637-454d-a142-8f8d4ed055fa)
+[Uploading Data File Raj.csv…]()
 
 
 Preview of the Email For A Recipient
