@@ -1,12 +1,7 @@
 --------------------------------------------------------------------------------
 FIRST METHOD----------------------
 -----------------------------------------------------------------------------
- 
-Open it in Stack Blitz editor given below.Online editor.
 
-<br/>
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/M-zhar/Email-Compaign)
-Step 1:Once Opened in StackBlitz Go to envfile and replace your app password.
 
 <br/>
 
