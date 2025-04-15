@@ -6,7 +6,7 @@ FIRST METHOD----------------------
 <br/>
 
 
-Step 2:Once it run Upload template  , Data file , and Attachments (These three sample files are given u can use it).
+Step 2: Once it run Upload template  , Data file , and Attachments (These three sample files are given u can use it).
 [Template 6.docx](https://github.com/user-attachments/files/19474238/Template.6.docx)
 
 
